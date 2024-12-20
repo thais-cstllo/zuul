@@ -1,7 +1,7 @@
 # Zuul-"La Maison des Playmobils"
 
 **Description :**  
-Il s'agissait d'un jeu que nous devions programmer dans le cadre d'une unité en programmation orientée objet, en Java.
+Il s'agit d'un jeu que nous devions programmer dans le cadre d'une unité en programmation orientée objet, en Java.
 
 ## 🚀 Jeux d'aventure
 
