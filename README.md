@@ -12,6 +12,4 @@ Nous sommes dans une chambre d’enfant et notre personnage est un Playmobil ave
 Installer le logiciel gratuit "blueJ".
 Ouvrer le fichier, puis cliquer droit sur l'objet "Game", pour créer l'objet et déclencher le jeu.
 git clone https://github.com/thais-cstllo/zuul
-cd votre-projet
-npm install
-npm start
+
