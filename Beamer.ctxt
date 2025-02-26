@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ La\ classe\ Beamer\ permet\ \u00E0\ l'utilisateur\ de\ se\ t\u00E9l\u00E9porter.\r\n\r\n\ @author\ Tha\u00EFs\ Castillo\r\n\ @version\ 19/04/2024\r\n
+comment1.params=pN\ pD\ pW
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructeur\ naturel\r\n\ @param\ pN\ String\ nom\ du\ teleportateur\r\n\ @param\ pD\ String\ description\r\n\ @param\ pW\ int\ poids\ du\ t\u00E9l\u00E9portateur\r\n
+comment2.params=
+comment2.target=boolean\ getCharger()
+comment2.text=\r\n\ Accesseur\r\n\ @return\ boolean\ aCharger\r\n
+comment3.params=
+comment3.target=boolean\ getUsed()
+comment3.text=\r\n\ Accesseur\r\n\ @return\ boolean\ aUsed\r\n
+comment4.params=
+comment4.target=Room\ getChargeRoom()
+comment4.text=\r\n\ Accesseur\r\n\ @return\ boolean\ aChargeRoom\r\n
+comment5.params=pR
+comment5.target=void\ charge(Room)
+comment5.text=\r\n\ Proc\u00E9dure\ permettant\ de\ charger\ le\ t\u00E9l\u00E9portateur\r\n\ @param\ pR\ Room\r\n
+comment6.params=
+comment6.target=void\ use()
+comment6.text=\r\n\ Proc\u00E9dure\ permettant\ d'utiliser\ le\ t\u00E9l\u00E9portateur\r\n
+numComments=7

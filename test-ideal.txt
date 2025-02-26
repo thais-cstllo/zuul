@@ -1,0 +1,30 @@
+take epee
+go south
+take coeur
+eat coeur
+inventaire
+go south
+go down
+go east
+take teleporteur
+go west
+go up
+go east
+go north
+charge
+go north
+go north
+go east
+take fourche
+take pelle
+take seau
+take rateau
+inventaire
+drop fourche
+drop pelle
+drop seau
+drop rateau
+back
+use
+take clee
+go east

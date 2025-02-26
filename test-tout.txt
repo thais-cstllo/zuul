@@ -1,0 +1,47 @@
+alea 2
+take epee
+go south
+take coeur
+go north
+go north
+go east
+go east
+eat coeur
+take fourche
+take pelle
+take seau
+take rateau
+drop fourche
+drop pelle
+drop seau
+drop rateau
+go west
+go south
+go south
+take clee
+go south
+go west
+go down
+go east
+take teleporteur
+inventaire
+go west
+go up
+go east
+go north
+charge
+go south
+go west
+go down
+back
+use
+inventaire
+look
+go south
+go east
+go north
+
+
+
+
+

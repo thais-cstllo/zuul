@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ \ Cette\ classe\ intialise\ le\ moteur\ de\ jeu\ GameEngine\ et\ lance\ le\ jeu\r\n\ @author\ \ Tha\u00EFs\ Castillo\r\n\ @version\ 16/03/2024\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\ Create\ the\ inerface\ and\ link\ to\ it.\r\n
+numComments=2

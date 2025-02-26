@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ La\ classe\ RoomRandomizer\ choisi\ va\ g\u00E9n\u00E9rer\ une\ pi\u00E8ce\ al\u00E9atoire\ \r\n\ o\u00F9\ l'utilisateur\ sera\ t\u00E9l\u00E9port\u00E9\ apr\u00E8s\ \u00EAtre\ sortie\ de\ la\ machine\ \r\n\ \u00E0\ voyager\ dans\ l'espace\r\n\r\n\ @author\ Tha\u00EFs\ Castillo\r\n\ @version\ 12/05/2024\r\n
+comment1.params=
+comment1.target=RoomRandomizer()
+comment1.text=\r\n\ Constructeur\ naturel.\ \r\n\ Il\ va\ initialiser\ l'attribut\ aRandomNumber\ en\ g\u00E9n\u00E9rant\ un\ chiffre\ au\ hasard\ entre\ et\ 0\ et\ 11\ inclus.\r\n
+comment2.params=
+comment2.target=Room\ findRandomRoom()
+comment2.text=\r\n\ Fonction\ servant\ \u00E0\ g\u00E9n\u00E9rer\ une\ Room\ au\ hasard.\r\n\ @return\ Room\ correspondant\ \u00E0\ une\ pi\u00E8ce\ al\u00E9atoire\r\n
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Cette\ classe\ permet\ de\ g\u00E9rer\ et\ analyser\ les\ commandes\ entr\u00E9\ par\ l'utilisateur.\r\n\r\n\ @author\ votre\ Tha\u00EFs\ Castillo\r\n\ @version\ 16/03/2024\r\n
+comment1.params=pC\ pS
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ naturel\r\n\ @param\ pC\ String\ pour\ initialiser\ aCommandWord\r\n\ @param\ pS\ String\ pour\ initialiser\ aSecondWord\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Fonction\ renvoyant\ le\ premier\ mot\ de\ la\ commande\r\n\ @return\ String\ correspond\ au\ premier\ mot\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Fonction\ renvoyant\ le\ second\ mot\ de\ la\ commande\r\n\ @return\ String\ correspond\ au\ second\ mot\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ Fonction\ retournant\ true\ s'il\ existe\ un\ second\ mot\ \r\n\ ou\ false\ sinon.\r\n\ @return\ Boolean\ qui\ vaut\ true\ ou\ false.\ \r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ Fonction\ retournant\ true\ si\ le\ premier\ mot\ vaux\ \r\n\ null\ (ou\ une\ commande\ invalide)\ ou\ false\ sinon.\r\n\ @return\ Boolean\ qui\ vaut\ true\ ou\ false.\r\n
+numComments=6

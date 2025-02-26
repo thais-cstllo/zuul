@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ La\ classe\ TransporterRoom\ est\ une\ sous\ classe\ de\ la\ classe\ Room\ et\ va\ \r\n\ servir\ notamment\ \u00E0\ red\u00E9finir\ la\ m\u00E9thode\ getExit().\r\n\r\n\ @author\ Tha\u00EFs\ Castillo\r\n\ @version\ 12/05/2024\r\n
+comment1.params=pD\ pImage
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ naturel\ \r\n\ @param\ pD\ String\ pour\ initialiser\ aDescription\ dans\ la\ classe\ Room.\r\n\ @param\ pImage\ String\ pour\ ajouter\ une\ image\ dans\ la\ classe\ Room.\r\n
+comment2.params=pD
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\r\n\ Fonction\ qui\ retourne\ une\ pi\u00E8ce\ al\u00E9atoire\ si\ on\ se\ d\u00E9place\ dans\ n'importe\ quelle\ direction\ pD.\r\n\ @param\ pD\ String\ correspondant\ \u00E0\ la\ direction\ \r\n\ @return\ Room\ qui\ existe\ dans\ cette\ direction\ (peut\ valoir\ null\ si\ elle\ n'existe\ pas).\r\n
+numComments=3

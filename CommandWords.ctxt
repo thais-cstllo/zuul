@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ CommandsWords\ contiendra\ tous\ les\ mots\ de\ commandes\ accept\u00E9s\r\n\r\n\ @author\ Tha\u00EFs\ Castillo\r\n\ @version\ 16/03/24\r\n
+comment1.params=pMot
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=\r\n\ Fonction\ qui\ permet\ de\ valider\ si\ la\ commande\ entr\u00E9e\r\n\ par\ l'utilisateur\ est\ valide\ ou\ non\ en\ l'a\ comparant\ aux\ String\ de\ son\ tableau.\r\n\ @param\ pMot\ String\ \u00E0\ v\u00E9rifier/comparer\ aux\ valeurs\ du\ tableau.\ \r\n\ @return\ Boolean\ qui\ vaut\ true\ ou\ false.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandList()
+comment2.text=\r\n\ Affiche\ toutes\ les\ commandes\ valides\ du\ System.out.\r\n\ @return\ String\ \r\n
+numComments=3

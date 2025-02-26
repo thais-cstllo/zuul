@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Cette\ classe\ permet\ d'ajouter\ des\ Items\ dans\ chaque\ pi\u00E8ce\r\n\r\n\ @author\ Tha\u00EFs\ Castillo\r\n\ @version\ 16/03/24\r\n
+comment1.params=pN\ pD\ pW
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructeur\ naturel.\ Cr\u00E9er\ un\ Item\ d\u00E9crit\ par\ la\ cha\u00EEne.\r\n\ @param\ pD\ String\ pour\ intialiser\ aItemDescription\r\n\ @param\ pW\ Entier\ pour\ initialiser\ aItemWeight\r\n\ @param\ pN\ String\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNomItem()
+comment2.text=\r\n\ Retourne\ le\ nom\ de\ l'Item\r\n\ @return\ String\ \r\n
+comment3.params=pN
+comment3.target=void\ setNomItem(java.lang.String)
+comment3.text=\r\n\ Proc\u00E9dure\ qui\ attribue\ \u00E0\ un\ Item\ son\ nom\ \r\n\ @param\ pN\ String\ pour\ intialiser\ aNomItem\r\n
+comment4.params=
+comment4.target=java.lang.String\ getItemDescription()
+comment4.text=\r\n\ Retourne\ la\ description\ de\ l'Item\r\n\ @return\ String\ \r\n
+comment5.params=
+comment5.target=int\ getItemWeight()
+comment5.text=\r\n\ Retourne\ le\ poids\ de\ l'Item\r\n\ @return\ int\r\n
+comment6.params=pD
+comment6.target=void\ setItemDescription(java.lang.String)
+comment6.text=\r\n\ Proc\u00E9dure\ qui\ attribue\ \u00E0\ un\ Item\ sa\ descrition\ \r\n\ @param\ pD\ String\ pour\ intialiser\ aItemDescription\r\n
+comment7.params=pW
+comment7.target=void\ setItemWeight(int)
+comment7.text=\r\n\ Proc\u00E9dure\ qui\ attribue\ \u00E0\ un\ Item\ son\ poids\ \r\n\ @param\ pW\ Entier\ pour\ initialiser\ aItemWeight\ \r\n
+numComments=8
